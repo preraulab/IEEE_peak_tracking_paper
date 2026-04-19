@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "IEEE_peak_tracking_paper"
+abstract: "MATLAB toolbox for state-space spectral peak tracking and decomposition of EEG spectrograms, companion to Stokes & Prerau, IEEE Access 2020."
+authors:
+  - family-names: Stokes
+    given-names: Patrick A.
+  - family-names: Prerau
+    given-names: Michael J.
+    name-suffix: Ph.D.
+    affiliation: "Prerau Laboratory, Brigham and Women's Hospital, Harvard Medical School"
+    orcid: "https://orcid.org/0000-0002-9010-5273"
+type: software
+license: BSD-3-Clause
+url: "https://github.com/preraulab/IEEE_peak_tracking_paper"
+repository-code: "https://github.com/preraulab/IEEE_peak_tracking_paper"
+preferred-citation:
+  type: article
+  title: "Estimation of Time-Varying Spectral Peaks and Decomposition of EEG Spectrograms"
+  authors:
+    - family-names: Stokes
+      given-names: Patrick A.
+    - family-names: Prerau
+      given-names: Michael J.
+      orcid: "https://orcid.org/0000-0002-9010-5273"
+  journal: "IEEE Access"
+  year: 2020
+  volume: 8
+  start: 218257
+  end: 218278
+  doi: "10.1109/access.2020.3042737"
